@@ -1,0 +1,3 @@
+observed_theta=2.720017
+p_value=0.004975
+n_perm=200

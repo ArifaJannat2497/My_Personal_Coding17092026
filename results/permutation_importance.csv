@@ -1,0 +1,7 @@
+nuisance,feature,mse_increase
+g(X): outcome,log_agri_ghg_emissions,2.725164535293696
+g(X): outcome,log_food_cpi,0.0983165721268523
+g(X): outcome,log_gdp_per_capita,5.0222463637334265
+m(X): treatment,log_agri_ghg_emissions,-0.0005277119923791217
+m(X): treatment,log_food_cpi,-0.0038802688842614758
+m(X): treatment,log_gdp_per_capita,-0.007395415520915373
