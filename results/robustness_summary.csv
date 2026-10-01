@@ -1,0 +1,10 @@
+analysis,detail,theta,se,p,N
+Main linear FE,cluster-robust,2.029397958699241,1.073368303502689,0.058666828096922,325
+Main linear FE,wild cluster bootstrap (9999 draws),2.029397958699241,,0.026302630263026303,325
+Sensitivity (Cinelli-Hazlett),partial R2 of treatment=0.029; RV(theta=0)=0.160; RV(p<.05)=0.055,,,,325
+Quadratic,linear term (at mean subsidy),2.8366200136541257,1.552507830151896,0.06768154411957757,325
+Quadratic,squared term,0.32489610967496046,0.27042276594652903,0.22958145408533792,325
+Heterogeneity: high-subsidy,"effect in other countries; high-subsidy = CHL, JPN, KOR, MEX, TUR, USA",1.1417101451943634,0.5839315017551339,0.050557999078755786,325
+Heterogeneity: high-subsidy,difference for high-subsidy,2.419098562521658,2.2191889704059258,0.2756769032257037,325
+Heterogeneity: high-income,"effect in other countries; high-income = AUS, CAN, CHE, ISL, NOR, USA",2.088817265640833,1.4565019245142936,0.1515343531998593,325
+Heterogeneity: high-income,difference for high-income,-0.2461788275320819,2.0948236428015465,0.9064498295787606,325
